@@ -1,6 +1,11 @@
-# Channel Sleuth
+# Slack Sleuth
 
 The little app that helps you uncover insights and trends within your Slack conversations in public channels.
+
+## How it works?
+
+- Export filtered channel conversation to a file
+- Analyze the exported conversations get some overview like who was mentioned most, who posted most messages or which messages were most popular
 
 ## Prerequisites
 
